@@ -2,6 +2,8 @@
 
 Live Demo： [静かな森](https://innei.ren/)
 
+搭建文档：[Docs](https://wibus.gitee.io/docs/mix-space)
+
 Mix Space 是一个全新打造的开源个人空间, 它不仅仅可以写博客, 写日记, 发说说, 展示自己的项目, 以及兴趣爱好。灵感来自于[保罗的小窝](https://paul.ren)
 
 此项目依赖于三个子项目：
